@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWeb", "TodoWeb\TodoWeb.csproj", "{AC7E676D-8A2E-4818-BCEB-95DD6921B000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{0722411B-8345-4937-A045-0FA32CA37027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{184FEC50-06BC-435C-82A7-AFA31CFA51DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7E676D-8A2E-4818-BCEB-95DD6921B000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7E676D-8A2E-4818-BCEB-95DD6921B000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7E676D-8A2E-4818-BCEB-95DD6921B000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7E676D-8A2E-4818-BCEB-95DD6921B000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0722411B-8345-4937-A045-0FA32CA37027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0722411B-8345-4937-A045-0FA32CA37027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0722411B-8345-4937-A045-0FA32CA37027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0722411B-8345-4937-A045-0FA32CA37027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184FEC50-06BC-435C-82A7-AFA31CFA51DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184FEC50-06BC-435C-82A7-AFA31CFA51DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184FEC50-06BC-435C-82A7-AFA31CFA51DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184FEC50-06BC-435C-82A7-AFA31CFA51DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
